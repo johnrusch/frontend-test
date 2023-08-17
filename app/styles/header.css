@@ -1,0 +1,14 @@
+.logo {
+  width: 6rem;
+  height: 2.75rem;
+  padding-right: 0.5rem;
+  margin-top: 0.25rem;
+  margin-right: 0.5rem;
+  border-right: 1px solid #fff;
+}
+
+.theme-docscores .navbar-brand .logo {
+  width: 12rem;
+  height: 2rem;
+  margin: 0.5rem 0;
+}
